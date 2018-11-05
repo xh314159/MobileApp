@@ -1,0 +1,27 @@
+.firstlevel {
+    background-color: black;
+    color: white;
+    border-bottom: 1px solid grey;
+    line-height: 50px;
+    padding-left: 50px;
+}
+
+.secondlevel {
+    background-color: black;
+    color: grey;
+    line-height: 40px;
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+.blackline {
+    height: 15px;
+    list-style-type: none;
+}
+
+.plus {
+    float: right;
+    line-height: 50px;
+    font-size: 12px;
+    margin-right: 20px;
+}
